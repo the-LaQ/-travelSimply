@@ -617,6 +617,8 @@ form {
         background-color: var(--bg1);
         color: var(--colordark);
         border: none;
+        resize: none;
+        width: 100%;
 
     }
 
