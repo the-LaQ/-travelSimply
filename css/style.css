@@ -72,7 +72,7 @@ nav {
 .navLogoGroup {
     display: flex;
     align-items: center;
-    gap: 14px;
+    gap: 18px;
 
     img {
         width: 34px;
@@ -87,7 +87,7 @@ nav {
 .navBarNumBt {
     display: flex;
     align-items: center;
-    gap: 16px;
+    gap: 18px;
 }
 
 .w1h14 {
@@ -99,7 +99,7 @@ nav {
 .navBar {
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 18px;
 
     a {
         font-size: 18px;
